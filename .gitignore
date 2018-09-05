@@ -1,0 +1,9 @@
+.idea/
+.git/
+Back_end/venv/
+Back_end/.idea/
+Back_end/stack_overflow/migrations/
+Back_end/stack_overflow/__pycache__/
+Back_end/StackOverflow/__pycache__/
+Front_end/node_modules/
+Front_end/.idea/
